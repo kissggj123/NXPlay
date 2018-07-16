@@ -11,6 +11,7 @@ int main()
     return 0;
 }
 
+// Video testing, not used (minivideo is bullshit tbh)
 int miniVideo()
 {
     gfxInitDefault();
